@@ -23,6 +23,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "teatoschukwu": "^0.1.0"
+    "teatoschukwu": "^0.1.0",
+    "tosinsepolia": "^1.0.2"
   }
 }
