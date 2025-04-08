@@ -1,0 +1,28 @@
+{
+  "name": "tosinsepolia",
+  "version": "1.0.0",
+  "description": "my tea sepolia test",
+  "keywords": [
+    "sepolia",
+    "tea",
+    "test"
+  ],
+  "homepage": "https://github.com/tosinchukwu/tosinsepolia#readme",
+  "bugs": {
+    "url": "https://github.com/tosinchukwu/tosinsepolia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosinchukwu/tosinsepolia.git"
+  },
+  "license": "ISC",
+  "author": "tosinchukwu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "teatoschukwu": "^0.1.0"
+  }
+}
