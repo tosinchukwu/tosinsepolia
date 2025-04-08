@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tosinchukwu/tosinsepolia.git"
+    "url": "https://github.com/tosinchukwu/tosinsepolia.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "tosinchukwu",
   "type": "commonjs",
   "main": "index.js",
